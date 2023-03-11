@@ -136,12 +136,12 @@ section {
 }
 
 .card-call-text {
-  flex: 1 1 400px;
+  flex: 6 1 400px;
   color: #e5e7eb
 }
 
 .card-call-container .sign-up-button {
-  flex: none;
+  flex: 1 0 auto;
   border: 2px solid white;
   align-self: center;
 }
