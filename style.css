@@ -65,4 +65,39 @@ nav ul li:first-child {
   border-radius: 10px;
 }
 
+/* Random info section */
+
+.random-info {
+  padding: 1em 15%;
+}
+
+.random-info h2 {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1f2937;
+  text-align: center;
+}
+
+.random-info ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  gap: 2em;
+}
+
+figure {
+  margin: 0;
+  width: 200px;
+}
+
+.info-list img {
+  height: 200px;
+  width: 200px;
+  border-radius: 5px;
+}
+
+.info-list figcaption {
+  text-align: center;
+}
 
