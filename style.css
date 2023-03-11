@@ -67,8 +67,8 @@ nav ul li:first-child {
 
 /* Random info section */
 
-.random-info {
-  padding: 1em 15%;
+section {
+  padding: 3em 15%;
 }
 
 .random-info h2 {
@@ -86,7 +86,7 @@ nav ul li:first-child {
   gap: 2em;
 }
 
-figure {
+.info-list figure {
   margin: 0;
   width: 200px;
 }
@@ -101,3 +101,20 @@ figure {
   text-align: center;
 }
 
+/* Quote section */
+
+.quote-section {
+  background-color: #e5e7eb;
+  padding: ;
+}
+
+.quote-section q {
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.quote-section figcaption {
+  text-align: right;
+  font-weight: 800;
+}
